@@ -38,7 +38,8 @@ public class StringMethodsExampleOne {
 /*
     Non-Static-Methods-of-String-class (you need to call them on String objects)
     ======================================
-
+    Comparison
+    ------------------------------
     boolean equals(String)
     boolean equalsIgnoreCase(String)
     boolean startsWith(String)  //begining
