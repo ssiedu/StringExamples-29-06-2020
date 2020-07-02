@@ -21,5 +21,8 @@
             26
 6) take a string and count no of vowels in it.
 7) take a string and count total no of capital,small,digits in it.
+##########################################################################3
+8) take a string and check if it is a palindrome or not with out using StringBuffer.
+9) take a string and check if it is a palindrome or not  using StringBuffer.
 
 */
